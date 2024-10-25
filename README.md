@@ -1,32 +1,36 @@
-Gerenciador de lista ordenada em C
-Este repositório contém um programa em C que implementa um gerenciador de lista dinâmica com funcionalidades básicas para inserção ordenada, busca, exclusão e seleção de elementos. Este programa foi desenvolvido com o objetivo de praticar o uso de ponteiros, alocação dinâmica de memória, manipulação de listas e
+# Gerenciador de Lista Ordenada em C
 
-Funcionalidades
-O programa permite realizar as seguintes operações em uma lista ordenada de números
+Este repositório contém um programa em C que implementa um gerenciador de lista dinâmica com funcionalidades básicas para inserção ordenada, busca, exclusão e seleção de elementos. O programa foi desenvolvido com o objetivo de praticar o uso de ponteiros, alocação dinâmica de memória e manipulação de listas.
 
-Criar lista:
-Inserir em ordem: Em
-Exibir lista :
-Verificar lista :
-Pesquisar na lista:
-Excluir da lista:
-Liberar lista : Lib
-Sair do programa:
-Estr
-O código está organizado em funções que facilitam
+## Funcionalidades
 
-criarLista():
-inserirListaOrdenado():
-exibirLista():
-verificarLista():
-buscarLista(): Permanente
-excluirLista():
-liberarLista():Liberdade
+O programa permite realizar as seguintes operações em uma lista ordenada de números:
 
-Técnica
-Linguagem C
-Manipulação de memória com mallocefree
-Estrut
-Funções
+- **Criar lista**
+- **Inserir em ordem**
+- **Exibir lista**
+- **Verificar lista**
+- **Pesquisar na lista**
+- **Excluir da lista**
+- **Liberar lista**
+- **Sair do programa**
 
-Sintam se a vontade para contribuições ou edições!
+## Estrutura
+
+O código está organizado em funções que facilitam a implementação das operações:
+
+- `criarLista()`
+- `inserirListaOrdenado()`
+- `exibirLista()`
+- `verificarLista()`
+- `buscarLista()`
+- `excluirLista()`
+- `liberarLista()`
+
+## Técnica
+
+- **Linguagem**: C
+- **Manipulação de memória**: `malloc` e `free`
+- **Estruturas**: Listas dinâmicas
+
+Sintam-se à vontade para contribuições ou edições!
